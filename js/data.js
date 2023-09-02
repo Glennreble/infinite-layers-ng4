@@ -91,7 +91,7 @@ let prestiges = [
    'Hadronize', 'Stellar', 'Universal', 'Fractalize', 'Abstraction',
    'Cosmological', 'Beyond', 'Meta', '?', 'Virtualize',
    'Digitize', 'Infinitize', 'Timeless', 'Continuum', 'Omniscient',
-   'Spiritual', 'Enlighten']
+   'Spiritual', 'Enlighten', 'Minecraft', 'Energize']
 ];
 // Universal (both normal and legacy) has two prestige currencies so I had to pick one of them.
 // The other is singularity energy in normal, and phantom energy in legacy.
@@ -103,7 +103,7 @@ let prestigeCurrencies = [
    'antiquarks', 'stellar fragments', 'protoverses', 'bubble archverses', 'fractalverses',
    'omniverse foams', 'unreality foams', 'monocosmic objects', '???', 'virtual antimatter',
    'reality bits', 'metamatter', 'eternal universes', 'quantum foams', 'omnipotent memories',
-   'immortal spirits', 'reality shards']
+   'immortal spirits', 'reality shards', 'minecraft blocks', 'energize points']
 ];
 let numPrestiges = [prestiges[0].length, prestiges[1].length];
 
